@@ -30,6 +30,7 @@ list(
     clean_unemp(unemp_data,
                 place_name_of_interest = c("Luxembourg", 
                                            "Dippach",
+                                           "Esch",
                                            "Wiltz", 
                                            "Mersch", 
                                            "Dudelange"),
